@@ -61,7 +61,7 @@ Para começar a usar esta API, siga os seguintes passos:
 4.  ```bash
     npm -v
   ## Como Usar
-  para executar a API basta digitar no terminal, prompt de comando ou power shell  
+  para executar a API basta digitar no terminal, prompt de comando ou power shell: 
 1. ```bash
    node index.js
 
