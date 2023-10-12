@@ -8,8 +8,7 @@ API desenvolvida em node.js que utiliza o MongoDB e roda no servidor local (Loca
 2. [Tecnologias Utilizadas](#tecnologias-utilizadas)
 3. [Instalação](#instalação)
 4. [Como Usar](#como-usar)
-5. [Contribuição](#contribuição)
-6. [Licença](#licença)
+5. [Licença](#licença)
 
 ## Sobre
 
@@ -62,9 +61,13 @@ Para começar a usar esta API, siga os seguintes passos:
 4.  ```bash
     npm -v
   # Como Usar
-  para executar a API basta digitar no terminal  
+  para executar a API basta digitar no terminal, prompt de comando ou power shell  
 1. ```bash
    node index.js
+
+## Licença
+1. ```bash
+   https://github.com/Daviddust95/API-localhost/blob/main/LICENSE
 
 ## Contato
 Se você tiver alguma dúvida, comentário ou feedback, sinta-se à vontade para entrar em contato:
