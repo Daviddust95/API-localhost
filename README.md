@@ -70,5 +70,5 @@ Se você tiver alguma dúvida, comentário ou feedback, sinta-se à vontade para
 
 - **Email:** alissondaviddev@gmail.com
 - **LinkedIn:** [alisson-melo95](https://www.linkedin.com/in/alisson-melo95/) 
-- **GitHub:** [@Daviddust95](https://github.com/Daviddust95)
 - **Site Pessoal:** [Portifólio](https://alissondev.tech)
+- **GitHub:** [@Daviddust95](https://github.com/Daviddust95)
