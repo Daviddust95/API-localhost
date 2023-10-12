@@ -38,7 +38,7 @@ Para começar a usar esta API, siga os seguintes passos:
 2. ```bash
    Configure o MongoDB: Certifique-se de que o MongoDB esteja instalado e configurado corretamente. Você pode baixar o MongoDB no site:  https://www.mongodb.com/try/download/community   
    
-# Instalação no Windows
+## Instalação no Windows
 
 1. ```bash
    Acesse o site do Node, https://nodejs.org/en/. Assim que entrar no site, você verá dois botões, indicando duas versões para baixar (LTS e Current).
@@ -49,7 +49,7 @@ Para começar a usar esta API, siga os seguintes passos:
    Em seguida, no terminal digite node -v e aperte a tecla Enter. Caso seja exibida a versão do Node, sua instalação foi feita com sucesso.
 
 
- # Instalação No Linux
+ ## Instalação No Linux
 
 1.  ```bash
     sudo apt-get install nodejs
