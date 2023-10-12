@@ -50,8 +50,6 @@ Para começar a usar esta API, siga os seguintes passos:
    Em seguida, no terminal digite node -v e aperte a tecla Enter. Caso seja exibida a versão do Node, sua instalação foi feita com sucesso.
 
 
-
-
  # Instalação No Linux
 
 1.  ```bash
