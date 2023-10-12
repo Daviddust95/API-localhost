@@ -36,24 +36,34 @@ Para começar a usar esta API, siga os seguintes passos:
    git clone https://github.com/Daviddust95/API-localhost.git
    cd minha-api-de-tarefas
 
-  *** Instalação No Linux ***
+2. ```bash
+   Configure o MongoDB: Certifique-se de que o MongoDB esteja instalado e configurado corretamente. Você pode baixar o MongoDB no site:  https://www.mongodb.com/try/download/community   
+   
+# Instalação no Windows
+
+1. ```bash
+   Acesse o site do Node, https://nodejs.org/en/. Assim que entrar no site, você verá dois botões, indicando duas versões para baixar (LTS e Current).
+   Logo após selecionar uma versão (LTS ou Current), será iniciado o download do instalador para Windows. Assim como é comum nos instaladores do Windows, basta seguir clicando nos botões Next até chegar ao final da instalação.
+2. ```bash
+   Assim que a instalação for finalizada, precisaremos testar se tudo está certo. Então, inicie o seu terminal. Pressione Tecla Windows + R, com a finalidade de abrir programa Executar. Escreva powershell e aperte a tecla Enter.
+3. ```bash
+   Em seguida, no terminal digite node -v e aperte a tecla Enter. Caso seja exibida a versão do Node, sua instalação foi feita com sucesso.
 
 
-2.  ```bash
+
+
+ # Instalação No Linux
+
+1.  ```bash
     sudo apt-get install nodejs
     
-3.  ```bash
+2.  ```bash
     sudo apt install npm
-4.  ```bash
+
+3.  ```bash
     nodejs -v
-5.  ```bash
+4.  ```bash
     npm -v
 
-*** Instalação em Windows ***
-Logo após selecionar uma versão (LTS ou Current), será iniciado o download do instalador para Windows. Assim como é comum nos instaladores do Windows, basta seguir clicando nos botões Next até chegar ao final da instalação.
 
-Assim que a instalação for finalizada, precisaremos testar se tudo está certo. Então, inicie o seu terminal. Pressione Tecla Windows + R, com a finalidade de abrir o programa Executar. Escreva powershell e aperte a tecla Enter.
-
-Em seguida, no terminal digite node -v e aperte a tecla Enter. Caso seja exibida a versão do Node, sua instalação foi feita com sucesso.
-
-Acesse o site do Node, https://nodejs.org/en/. Assim que entrar no site, você verá dois botões, indicando duas versões para baixar (LTS e Current).
+Alisson David de Melo - [alisson-melo95](https://www.linkedin.com/in/alisson-melo95/) - [@Daviddust95](https://github.com/Daviddust95) - [Portifólio](https://alissondev.tech)
