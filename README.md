@@ -34,7 +34,6 @@ Para começar a usar esta API, siga os seguintes passos:
 1. **Clone o Repositório:**
    ```bash
    git clone https://github.com/Daviddust95/API-localhost.git
-   cd minha-api-de-tarefas
 
 2. ```bash
    Configure o MongoDB: Certifique-se de que o MongoDB esteja instalado e configurado corretamente. Você pode baixar o MongoDB no site:  https://www.mongodb.com/try/download/community   
@@ -63,7 +62,7 @@ Para começar a usar esta API, siga os seguintes passos:
 4.  ```bash
     npm -v
   # para executar a API basta digitar no terminal  
-5. ```bash
+1. ```bash
    node index.js
 
 ## Contato
