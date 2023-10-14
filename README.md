@@ -17,8 +17,9 @@ Esta API foi desenvolvida para gerenciar tarefas, permitindo aos usuários reali
 - **Listar Tarefas**: Recupere a lista de todas as tarefas armazenadas no banco de dados.
 
 - **Criar Tarefa**: Adicione uma nova tarefa ao sistema, fornecendo um título e uma descrição.
-
+<justify>
 A API foi construída com o framework Express.js e usa o MongoDB como banco de dados para armazenar informações sobre as tarefas. O servidor é configurado para rodar localmente no endereço `http://localhost:3000`, tornando-a ideal para desenvolvimento e teste.
+</justify>
 
 ## Tecnologias Utilizadas
 
