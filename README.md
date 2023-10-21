@@ -23,9 +23,9 @@ A API foi construída com o framework Express.js e usa o MongoDB como banco de d
 
 ## Tecnologias Utilizadas
 
-- Node.js
-- Express.js
-- MongoDB
+- NODE.JS
+- EXPRESS.JS
+- MONGODB
 
 ## Instalação
 
