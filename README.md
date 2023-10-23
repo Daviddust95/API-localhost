@@ -1,6 +1,8 @@
 # API localhost
 
 API desenvolvida em node.js que utiliza o MongoDB e roda no servidor local (LocalHost).
+## Capturas de Tela
+![Captura de tela 2023-10-22 221103](https://github.com/Daviddust95/API-localhost/assets/124353154/85ee6f23-ace2-4cb8-9b9d-0c0d731d62fe)
 
 ## Conteúdo
 
