@@ -4,6 +4,7 @@ const mongoose = require('mongoose');
 const app = express();
 const port = 3000;
 
+// Conecta ao banco de dados MongoDB
 mongoose.connect('mongodb://localhost:27017/lista', {
   useNewUrlParser: true,
   useUnifiedTopology: true,
@@ -15,17 +16,20 @@ mongoose.connect('mongodb://localhost:27017/lista', {
     console.error('Erro ao conectar o servidor:', error);
   });
 
+// Define o esquema para as tarefas
 const TaskSchema = new mongoose.Schema({
   title: { type: String, required: true },
   description: { type: String, required: true },
   completed: { type: Boolean, default: false },
 });
 
+// Cria o modelo Task baseado no esquema
 const Task = mongoose.model('Task', TaskSchema);
 
+// Permite o uso de JSON no corpo das requisições
 app.use(express.json());
 
-
+// Rota para obter todas as tarefas
 app.get('/tasks', async (req, res) => {
   try {
     const tasks = await Task.find();
@@ -35,7 +39,7 @@ app.get('/tasks', async (req, res) => {
   }
 });
 
-
+// Rota para criar uma nova tarefa
 app.post('/tasks', async (req, res) => {
   try {
     const { title, description } = req.body;
@@ -47,6 +51,7 @@ app.post('/tasks', async (req, res) => {
   }
 });
 
+// Inicia o servidor na porta especificada
 app.listen(port, () => {
   console.log(`Servidor rodando em http://localhost:${port}`);
 });
