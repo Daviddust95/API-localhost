@@ -1,6 +1,8 @@
 # API localhost
+[![Concluído](https://img.shields.io/badge/Conclu%C3%ADdo-Sim-brightgreen.svg)](https://github.com/seu-usuario/seu-repositorio)
 
-API desenvolvida em node.js que utiliza o MongoDB e roda no servidor local (LocalHost).
+### API desenvolvida em node.js que utiliza o MongoDB e roda no servidor local (LocalHost).
+
 ## Capturas de Tela
 ![Captura de tela 2023-10-22 221103](https://github.com/Daviddust95/API-localhost/assets/124353154/85ee6f23-ace2-4cb8-9b9d-0c0d731d62fe)
 
@@ -36,10 +38,8 @@ Para começar a usar esta API, siga os seguintes passos:
 1. **Clone o Repositório:**
    ```bash
    git clone https://github.com/Daviddust95/API-localhost.git
-
 2. ```bash
    Configure o MongoDB: Certifique-se de que o MongoDB esteja instalado e configurado corretamente. Você pode baixar o MongoDB no site:  https://www.mongodb.com/try/download/community   
-   
 ## Instalação no Windows
 
 1. ```bash
@@ -49,16 +49,12 @@ Para começar a usar esta API, siga os seguintes passos:
    Assim que a instalação for finalizada, precisaremos testar se tudo está certo. Então, inicie o seu terminal. Pressione Tecla Windows + R, com a finalidade de abrir programa Executar. Escreva powershell e aperte a tecla Enter.
 3. ```bash
    Em seguida, no terminal digite node -v e aperte a tecla Enter. Caso seja exibida a versão do Node, sua instalação foi feita com sucesso.
-
-
  ## Instalação No Linux
 
 1.  ```bash
     sudo apt-get install nodejs
-    
 2.  ```bash
     sudo apt install npm
-
 3.  ```bash
     nodejs -v
 4.  ```bash
@@ -67,7 +63,6 @@ Para começar a usar esta API, siga os seguintes passos:
   para executar a API basta digitar no terminal, prompt de comando ou power shell: 
 1. ```bash
    node index.js
-
 ## Contato
 Se você tiver alguma dúvida, comentário ou feedback, sinta-se à vontade para entrar em contato:
 
