@@ -1,5 +1,5 @@
 # API localhost
-[![Concluído](https://img.shields.io/badge/Conclu%C3%ADdo-Sim-brightgreen.svg)](https://github.com/seu-usuario/seu-repositorio)
+![Concluído](https://img.shields.io/badge/Conclu%C3%ADdo-Sim-brightgreen.svg)
 
 ### API desenvolvida em node.js que utiliza o MongoDB e roda no servidor local (LocalHost).
 
